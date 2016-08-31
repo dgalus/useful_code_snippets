@@ -1,1 +1,1 @@
-# useful_code_snippets
+# useful_code_snippets [C/C++]
